@@ -5,6 +5,7 @@ I am a fourth-year PhD student (a 5-year program) at Shanghai University of Fina
 |-------|--------------------|-------|-------|------|
 |ADGym: Design Choices for Deep Anomaly Detection|Anomaly Detection|NeurIPS 2023|[:page_facing_up:](https://arxiv.org/pdf/2309.15376.pdf)|[:computer:](https://github.com/Minqi824/ADGym)      |
 |Weakly Supervised Anomaly Detection: A Survey|Anomaly Detection|Arxiv|[:page_facing_up:](https://arxiv.org/abs/2302.04549)|[:computer:](https://github.com/Minqi824/WSAD)      |
+|TSGym: Design Choices for Deep Multivariate Time-Series Forecasting|Time Series Forecasting|Arxiv|[:page_facing_up:](https://arxiv.org/abs/2509.17063)|[:computer:](https://github.com/SUFE-AILAB/TSGym)      |
 ---
 **Quick links**
 - :point_right: [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=36rE57wAAAAJ)
