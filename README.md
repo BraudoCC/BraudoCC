@@ -6,7 +6,7 @@ I am a fourth-year PhD student (a 5-year program) at Shanghai University of Fina
 |ADGym: Design Choices for Deep Anomaly Detection|Anomaly Detection|NeurIPS 2023|[:page_facing_up:](https://arxiv.org/pdf/2309.15376.pdf)|[:computer:](https://github.com/Minqi824/ADGym)      |
 |Weakly Supervised Anomaly Detection: A Survey|Anomaly Detection|Arxiv|[:page_facing_up:](https://arxiv.org/abs/2302.04549)|[:computer:](https://github.com/Minqi824/WSAD)      |
 |Beyond Holistic Models: Systematic Component-level Benchmarking of Deep Multivariate Time-Series Forecasting |Time Series Forecasting|KDD 2026|[:page_facing_up:](https://arxiv.org/abs/2509.17063)|[:computer:](https://github.com/SUFE-AILAB/TSGym)      |
-|Rethinking Weak Supervision in Anomaly Detection: A Comprehensive Benchmark|Anomaly Detection|KDD 2026|[:page_facing_up:](https://openreview.net/forum?id=EeDM9TCDMC)|[:computer:](https://github.com/Minqi824/WSAD)      |
+|Rethinking Weak Supervision in Anomaly Detection: A Comprehensive Benchmark|Anomaly Detection|KDD 2026|[:page_facing_up:](https://openreview.net/forum?id=EeDM9TCDMC)|[:computer:](https://github.com/SUFE-AILAB/WSADBench)      |
 ---
 **Quick links**
 - :point_right: [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=36rE57wAAAAJ)
