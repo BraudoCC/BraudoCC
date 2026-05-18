@@ -1,5 +1,5 @@
 ### Welcome to my (Chaochuan Hou, 侯朝川 for Chinese) profile:
-I am a fourth-year PhD student (a 5-year program) at Shanghai University of Finance and Economics. I work with my supervisors, [Songqiao Han](https://scholar.google.com/citations?user=C73EXPMAAAAJ&hl=en&oi=ao) and [Hailiang Huang](https://scholar.google.com/citations?user=kCtylwwAAAAJ&hl=en&oi=sra), as well as my senior fellow, [Minqi Jiang](https://scholar.google.com/citations?user=OBdS69UAAAAJ&hl=en) in [SUFE AI Lab](https://mp.weixin.qq.com/s/nFlYaUn0o73iz5nLM73qBg). My research focuses on time series analysis, quantitative trading and anomaly detection.
+I am a 5-year PhD student at Shanghai University of Finance and Economics. I work with my supervisors, [Songqiao Han](https://scholar.google.com/citations?user=C73EXPMAAAAJ&hl=en&oi=ao) and [Hailiang Huang](https://scholar.google.com/citations?user=kCtylwwAAAAJ&hl=en&oi=sra), as well as my senior fellow, [Minqi Jiang](https://scholar.google.com/citations?user=OBdS69UAAAAJ&hl=en) in [SUFE AI Lab](https://mp.weixin.qq.com/s/nFlYaUn0o73iz5nLM73qBg). My research focuses on time series analysis, quantitative trading and anomaly detection.
 
 | Title | Research Direction |Conference/Journal| Paper | Code |
 |-------|--------------------|-------|-------|------|
